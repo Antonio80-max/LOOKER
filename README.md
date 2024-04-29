@@ -1,0 +1,2 @@
+# LOOKER
+Esercizi di looker
